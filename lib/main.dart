@@ -9,9 +9,9 @@ import 'controllers/user_controller.dart';
 
 void main() async {
   await Supabase.initialize(
-      url: "https://ewcpbyrypqvypuswweqk.supabase.co",
+      url: "mysteriouslink.notsupabase.freepalestine",
       anonKey:
-          "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV3Y3BieXJ5cHF2eXB1c3d3ZXFrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDUxMDEyNDQsImV4cCI6MjA2MDY3NzI0NH0.OvS0hc9wJmYlw79T_r8XKLW7ug54AyUenRfN5JiHAY0");
+          "ANNON KEY... DUUUH");
   Get.put(CurrentUserController());
   //set current user
   final user = Supabase.instance.client.auth.currentUser;
