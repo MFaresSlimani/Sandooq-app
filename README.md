@@ -1,6 +1,6 @@
 # Musharek (مشارك)
 
-A Flutter mobile application for managing rotating savings and credit associations (ROSCAs) called "دوائر" (circles) in Arabic.
+A Flutter mobile application for managing rotating savings and credit associations called "دوائر" (circles).
 
 ## Overview
 
