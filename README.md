@@ -1,16 +1,38 @@
-# sandooq
+# Musharek (مشارك)
 
-A new Flutter project.
-u6a1rvQOb7OymTU7
-## Getting Started
+A Flutter mobile application for managing rotating savings and credit associations (ROSCAs) called "دوائر" (circles) in Arabic.
 
-This project is a starting point for a Flutter application.
+## Overview
 
-A few resources to get you started if this is your first Flutter project:
+Musharek enables users to participate in traditional savings circles with modern technology. Users can create or join savings groups where members contribute regularly and take turns receiving the collected funds.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔍 **Explore Circles**: Browse and join available savings circles
+- ➕ **Create Circles**: Start your own savings circle and invite friends/family
+- 📱 **Mobile-First**: Native Android app built with Flutter
+- 🌙 **Dark Mode**: Supports both light and dark themes
+- 🔒 **Secure**: Safe and transparent community-based savings
+- 📊 **Progress Tracking**: Monitor payments and progress easily
+
+## Tech Stack
+
+- **Framework**: Flutter
+- **Language**: Dart
+- **State Management**: GetX
+- **UI Components**: Material Design with custom Arabic fonts (Google Fonts Cairo)
+- **Icons**: Line Icons
+- **Platform**: Android (iOS support planned)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or support, please open an issue in this repository.
+
+---
+
+*Musharek - Building your savings journey with trusted circles* 🏦✨
